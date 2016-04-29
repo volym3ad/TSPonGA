@@ -1,0 +1,17 @@
+C:\Users\Сергей\Desktop\ \Метода к прогам\Курсач\tsp\bin\Debug\tsp.XML
+C:\Users\Сергей\Desktop\ \Метода к прогам\Курсач\tsp\bin\Debug\tsp.exe
+C:\Users\Сергей\Desktop\ \Метода к прогам\Курсач\tsp\bin\Debug\tsp.pdb
+C:\Users\Сергей\Desktop\ \Метода к прогам\Курсач\tsp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\ \Метода к прогам\Курсач\tsp\obj\Debug\Tsp.Properties.Resources.resources
+C:\Users\Сергей\Desktop\ \Метода к прогам\Курсач\tsp\obj\Debug\Tsp.TspForm.resources
+C:\Users\Сергей\Desktop\ \Метода к прогам\Курсач\tsp\obj\Debug\tsp.exe
+C:\Users\Сергей\Desktop\ \Метода к прогам\Курсач\tsp\obj\Debug\tsp.pdb
+C:\Users\Vlad\Desktop\Коммивояжер на основе Генитического Алгоритма\tsp\bin\Debug\tsp.XML
+C:\Users\Vlad\Desktop\Коммивояжер на основе Генитического Алгоритма\tsp\obj\Debug\tsp.exe
+C:\Users\Vlad\Desktop\Коммивояжер на основе Генитического Алгоритма\tsp\obj\Debug\tsp.pdb
+C:\Users\Vlad\Desktop\Коммивояжер на основе Генитического Алгоритма\tsp\bin\Debug\tsp.exe
+C:\Users\Vlad\Desktop\Коммивояжер на основе Генитического Алгоритма\tsp\bin\Debug\tsp.pdb
+C:\Users\Vlad\Desktop\Коммивояжер на основе Генитического Алгоритма\tsp\obj\Debug\tsp.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Desktop\Коммивояжер на основе Генитического Алгоритма\tsp\obj\Debug\Tsp.Properties.Resources.resources
+C:\Users\Vlad\Desktop\Коммивояжер на основе Генитического Алгоритма\tsp\obj\Debug\Tsp.TspForm.resources
+C:\Users\Vlad\Desktop\Коммивояжер на основе Генитического Алгоритма\tsp\obj\Debug\tsp.csproj.GenerateResource.Cache
